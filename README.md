@@ -1,1 +1,1 @@
-# SwiftUI_gameCard
+# This is simple card game 
