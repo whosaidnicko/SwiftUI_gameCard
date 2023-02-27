@@ -1,1 +1,1 @@
- This is simple card game  🎮
+ This is  a simple card game  🎮
